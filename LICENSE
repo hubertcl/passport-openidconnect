@@ -1,6 +1,9 @@
 The MIT License (MIT)
 
-Copyright (c) 2013-2016 Jared Hanson
+Copyright for portions of project passport-openidconnect-extra are held by 
+original author Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>, 
+2013-2016 as part of project passport-openidconnect. All other copyright for 
+project passport-openidconnect-extra are held by Claire Hubert, 2019.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

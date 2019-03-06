@@ -1,7 +1,7 @@
 {
-  "name": "passport-openidconnect",
-  "version": "0.0.2",
-  "description": "OpenID Connect authentication strategy for Passport.",
+  "name": "passport-openidconnect-extra",
+  "version": "0.0.1",
+  "description": "OpenID Connect authentication strategy for Passport with additional parameters.",
   "keywords": [
     "passport",
     "openid",
@@ -9,16 +9,23 @@
     "auth",
     "authn",
     "authentication",
-    "identity"
+    "identity",
+    "realm"
   ],
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
+  "contributors": [
+    {
+      "name": "Claire Hubert",
+      "email": "clrhubert@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git@github.com:hubertcl/passport-openidconnect.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-openidconnect/issues"
